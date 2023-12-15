@@ -11,6 +11,8 @@ import {
 import {
   SiTailwindcss,
   SiExpress,
+  SiTypescript,
+  SiC,
 } from "react-icons/si";
 
 function Techstack() {
@@ -19,6 +21,14 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
         <div className="tech-name">javascript</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+        <div className="tech-name">Typescript</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiC />
+        <div className="tech-name"></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTailwindcss />
