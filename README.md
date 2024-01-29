@@ -3,7 +3,7 @@
   <!-- <a href="https://www.rahuljha.info/" target="_blank">rahul jha</a> -->
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme_img.png" />
+  <img alt="Demo" src="./Images/portfolio-img.png" />
 </div>
 
 <br/>
