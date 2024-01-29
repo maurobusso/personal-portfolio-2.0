@@ -1,0 +1,5 @@
+const github = "https://github.com/maurobusso"
+const linkedin = "https://www.linkedin.com/in/maurobusso"
+const twitter = "https://twitter.com/MauroBusso4"
+const portfolio = ""
+const email = "mauro.busso12@gmail.com"
