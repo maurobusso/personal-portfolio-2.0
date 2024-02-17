@@ -8,6 +8,7 @@ import Blackjack from "../../Assets/Projects/blackjack.png";
 import FraserClinic from "../../Assets/Projects/fraser-clinic.png";
 import NasaApp from "../../Assets/Projects/nasa-app.png";
 import LaCalculator from "../../Assets/Projects/la-calculator.png";
+import SQLProject from "../../Assets/Projects/SQL-project.png";
 
 import "./project.css";
 
@@ -46,12 +47,12 @@ function Projects() {
           </Col>
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
-              imgPath={NasaApp}
-              title="NASA Data"
-              description="App that allow the user to fetch data from some of NASA APIs 
-              to obtain information and display images of our universe."
-              ghLink="https://github.com/maurobusso/Explore-Space"
-              demoLink="https://explore-space-app.netlify.app/"
+              imgPath={SQLProject}
+              title="Final Project for CS50 Intro to Databases"
+              description="Project completed as the final assignment at the end of a 7-week course. 
+              This served as an opportunity to apply my newfound skills in SQL and develop my very own database. 
+              It is a database designed for a global healthcare system, intended to store healthcare records."
+              ghLink="https://github.com/maurobusso/CS50-SQL-Final-Project"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">
@@ -65,6 +66,16 @@ function Projects() {
               accessible."
               ghLink="https://github.com/maurobusso/msd-app"
               demoLink="https://msd-app.netlify.app/"
+            />
+          </Col>
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={NasaApp}
+              title="NASA Data"
+              description="App that allow the user to fetch data from some of NASA APIs 
+              to obtain information and display images of our universe."
+              ghLink="https://github.com/maurobusso/Explore-Space"
+              demoLink="https://explore-space-app.netlify.app/"
             />
           </Col>
         </Row>
