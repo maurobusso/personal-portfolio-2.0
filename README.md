@@ -1,6 +1,6 @@
 <h2 align="center">
   Mauro Busso | Portfolio Website<br/>
-  <!-- <a href="https://www.rahuljha.info/" target="_blank">rahul jha</a> -->
+  <a href="https://portfolio-c5a6msehw-mb93.vercel.app/" target="_blank">rahul jha</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/portfolio-img.png" />
@@ -14,7 +14,7 @@
 
 ## Built With
 
-My personal portfolio website <a href="https://www.rahuljha.info/" target="_blank">Mauro Busso</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://portfolio-c5a6msehw-mb93.vercel.app/" target="_blank">Mauro Busso</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
