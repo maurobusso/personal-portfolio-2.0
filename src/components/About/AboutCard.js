@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0" data-aos="zoom-in">
           <p style={{ textAlign: "justify"}}>
-            Hi Everyone, I am <span className="primary-header">Mauro Busso</span> from Italy. I am self-taught and a passionate programmer.
+            Hi Everyone, I am <span className="primary-header">Mauro</span>. I am a passionate Software Developer.
             <br />
             <br />
             In addition to coding, here are some other things I enjoy doing!
@@ -25,6 +25,9 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <AiFillCode /> Traveling
+            </li>
+            <li className="about-activity">
+              <AiFillCode /> Tinkering with with Linux and Raspberry Pi
             </li>
           </ul>
         </blockquote>

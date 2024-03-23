@@ -21,13 +21,13 @@ function Home2() {
             <p className="home-about-body" data-aos="fade-up">
               <br />
               I'm a <i className="primary-header">
-                Self-Taught Web Developer 
+                Software Developer
               </i>{" "}
-               who loves solving problems and building.
+               who loves solving problems and building but also thrives on the collaborative process of bringing ideas to life through code.
               <br />
               <br />I am passionate about{" "}
-              <i className="primary-header">technologies</i> and love to learn
-              new things.
+              <i className="primary-header">algorithms</i> fascinated by the elegant solutions they can offer 
+              to complex problems and how they optimizie code efficiency.
               <br />
               <br />I am interested in building new
               <i>
